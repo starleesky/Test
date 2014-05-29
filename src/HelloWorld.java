@@ -9,9 +9,13 @@
  * </p>
  * 
  * Created: 2014年5月29日 下午2:03:10
- *
+ * 
  * @author lixin(lixin@139erp.com)
  */
 public class HelloWorld {
+
+	public static void main(String[] args) {
+		System.out.println("hi~!!! Hellow World");
+	}
 
 }
